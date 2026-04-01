@@ -134,8 +134,8 @@ osuscorecard-api/
 
 Connect with me and my community:
 
-- **YouTube**: [@nitrobtw](https://www.youtube.com/@nitrobtw) - Tutorials, gameplay, and project updates
-- **Discord**: [Join the TWIO community](https://discord.com/invite/U3BaaB5a6t) - Get support, share your creations, and chat with other players
+- **YouTube**: [@nitrobtw](https://www.youtube.com/@nitrobtw) - osu! news series
+- **Discord**: [Join the TWIO community](https://discord.com/invite/U3BaaB5a6t) - Get support, share your plays, and chat with other players
 
 ## License
 
