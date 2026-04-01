@@ -19,10 +19,6 @@ This version is a significant evolution from the original:
 - **TypeScript Migration**: Full conversion to TypeScript for improved type safety and developer experience
 - **Improved Performance**: Better code organization and build optimization
 
-##  **Less vibe coded slop!**
-
-Of course the osu! community hates AI, and to be honest for anything other than throw-away code I sorta hate it too. But for a project like this last year, I had zero web development experience at all. I was good at python and that's it, so it was originally made in python and then turned into a barely working website by Claude and ChatGPT. Since then, I've gained some TypeScript and general web-dev experience and decided to completely rewrite the codebase in TypeScript. Any future features will be completely human written and the design will be human made too :D
-
 ## Tech Stack
 
 - **Language**: TypeScript
