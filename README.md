@@ -1,6 +1,3 @@
-Discord - [![Discord](https://github.com/CLorant/readme-social-icons/raw/main/large/colored/discord.svg)](https://discord.com/invite/U3BaaB5a6t)
-Youtube - [![Youtube](https://github.com/CLorant/readme-social-icons/raw/main/large/colored/youtube.svg)](https://youtube.com/@nitrobtw)
-
 # osu! Scorecard API
 
 The API-server backend for generating osu! scorecards. Used by the [osu!scorecard web frontend](https://github.com/NitroBTW/osuscorecard-web).
@@ -137,8 +134,8 @@ osuscorecard-api/
 
 Connect with me and my community:
 
-- **YouTube**: [@nitrobtw](https://www.youtube.com/@nitrobtw) - Tutorials, gameplay, and project updates
-- **Discord**: [Join the TWIO community](https://discord.com/invite/U3BaaB5a6t) - Get support, share your creations, and chat with other players
+- **YouTube**: [@nitrobtw](https://www.youtube.com/@nitrobtw) - osu! news series
+- **Discord**: [Join the TWIO community](https://discord.com/invite/U3BaaB5a6t) - Get support, share your plays, and chat with other players
 
 ## License
 
