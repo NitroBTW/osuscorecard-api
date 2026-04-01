@@ -87,10 +87,10 @@ Response:
 ### Environment Variables
 
 1. Copy `example.env` to `.env` and replace the following as needed:
-`CLIENT_ID` - Required osu! app client ID to access osu!api v2
-`CLIENT_SECRET` - Required authorisation secret token to access the osu!api v2
-`FRONTEND_URL` - The URL where your frontend is hosted. This allows to use `/api/{endpoint}` at where the base URL is your frontend URL
-`PORT` - The port to listen on for API requests. This is 3000 by default.
+- `CLIENT_ID` - Required osu! app client ID to access osu!api v2
+- `CLIENT_SECRET` - Required authorisation secret token to access the osu!api v2
+- `FRONTEND_URL` - The URL where your frontend is hosted. This allows to use `/api/{endpoint}` at where the base URL is your frontend URL
+- `PORT` - The port to listen on for API requests. This is 3000 by default.
 
 ### Prerequisites
 
