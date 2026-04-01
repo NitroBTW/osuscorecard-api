@@ -1,6 +1,3 @@
-Discord - [![Discord](https://github.com/CLorant/readme-social-icons/raw/main/large/colored/discord.svg)](https://discord.com/invite/U3BaaB5a6t)
-Youtube - [![Youtube](https://github.com/CLorant/readme-social-icons/raw/main/large/colored/youtube.svg)](https://youtube.com/@nitrobtw)
-
 # osu! Scorecard API
 
 The API-server backend for generating osu! scorecards. Used by the [osu!scorecard web frontend](https://github.com/NitroBTW/osuscorecard-web).
