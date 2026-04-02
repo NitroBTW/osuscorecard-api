@@ -14,7 +14,7 @@ const app = express();
 const PORT = Number(process.env.PORT) || 3000;
 
 // Get the frontend URL from environment variables for CORS configuration
-const FRONTEND_URL = process.env.FRONTEND_URL || "http://localhost:5173";
+const FRONTEND_URL = process.env.FRONTEND_URL || "";
 
 // Retrieve the OAuth client credentials from environment variables
 const CLIENT_ID = process.env.CLIENT_ID;
